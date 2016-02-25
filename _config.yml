@@ -1,0 +1,28 @@
+name: Catalystic
+favicon: null
+layout_spectrum: 0.29501423612236977
+typography_spectrum: 0.055326120695099235
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8187331419903785
+  lightness: 0.5880476194433868
+  saturation: 0.5419079142156988
+  rhythmicContrast: 0.3142672323156148
+purpose: []
